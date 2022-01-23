@@ -15,7 +15,7 @@ Main Menu:
 3) Connect To Databases
 - This option is used to connect to specific database and do operations on it like (Create table, List tables, Insert, select and delete from table
 
-Up on user Connect to Specific Database, there will be new Screen with this Menu:
+ Up on user Connect to Specific Database, there will be new Screen with this Menu:
 - Create Table 
 - List Tables
 - Drop Table
