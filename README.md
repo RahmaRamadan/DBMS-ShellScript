@@ -26,7 +26,7 @@ Main Menu:
 4) Drop Database
 - This option is used to remove database with its content 
 =========================================================
-To start the program 
+-To start the program 
 1- run bash .menu.sh
 OR
 2- run . ./.menu.sh 
